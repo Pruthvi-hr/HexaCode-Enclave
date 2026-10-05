@@ -54,11 +54,13 @@ Enterprise software developers are strictly forbidden from pasting proprietary s
 |                        3. LAPTOP IDE                              |
 |   Patched code fills clipboard — press Ctrl+V to apply fix        |
 +-------------------------------------------------------------------+
+\## 📽️ Video Walkthrough &amp; Resources
+\* 🔗 \*\*[Watch YouTube Walkthrough (Unlisted)](https://youtube.com/shorts/1zDFdQBqvgs?si=Y8yU1Mws2H5lBAFW)\*\*
 
-```
-HexaCode-Enclave/ 
-├── android/ # Kotlin Android app &amp;ExecuTorch NPU service 
+HexaCode-Enclave/
+├── android/ # Kotlin Android app &amp; ExecuTorch NPU service
 ├── models/ # Model quantization scripts (Qualcomm QNN)
 ├── vscode-extension/ # Laptop IDE listener extension
-└── docs/ # Architecture diagrams &amp;
----
+└── docs/ # Architecture diagrams &amp; submission pitch deck
+```
+
