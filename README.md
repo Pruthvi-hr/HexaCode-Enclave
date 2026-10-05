@@ -31,7 +31,7 @@ Enterprise software developers are strictly forbidden from pasting proprietary s
 
 ## 🏗️ System Architecture
 
----text
+```
 +-------------------------------------------------------------------+
 |                        1. LAPTOP IDE                              |
 |   Developer selects vulnerable code &amp; presses Ctrl+C              |
@@ -50,7 +50,7 @@ Enterprise software developers are strictly forbidden from pasting proprietary s
 |                        3. LAPTOP IDE                              |
 |   Patched code fills clipboard — press Ctrl+V to apply fix        |
 +-------------------------------------------------------------------+
----
+```
 \## 📽️ Video Walkthrough &amp; Resources
 \* 🔗 \*\*[Watch YouTube Walkthrough (Unlisted)](https://youtube.com/shorts/1zDFdQBqvgs?si=Y8yU1Mws2H5lBAFW)\*\*
 
