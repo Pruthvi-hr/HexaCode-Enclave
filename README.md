@@ -1,4 +1,4 @@
-```
+
 # 🛡️️ HexaCode Enclave
 &gt; **Air-Gapped Local NPU Co-Processing Engine via iQOO Office Kit**
 
@@ -62,5 +62,4 @@ HexaCode-Enclave/
 ├── models/ # Model quantization scripts (Qualcomm QNN)
 ├── vscode-extension/ # Laptop IDE listener extension
 └── docs/ # Architecture diagrams &amp; submission pitch deck
-```
 
