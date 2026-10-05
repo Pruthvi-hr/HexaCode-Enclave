@@ -2,14 +2,12 @@
 # 🛡️️ HexaCode Enclave
 &gt; **Air-Gapped Local NPU Co-Processing Engine via iQOO Office Kit**
 
----
 
 ## 💡 Overview
 **HexaCode Enclave** turns your iQOO smartphone into a hardware-isolated, air-gapped AI co-processor for your laptop.
 
 Enterprise software developers are strictly forbidden from pasting proprietary source code into cloud AI tools (e.g., ChatGPT, Claude) due to data exfiltration risks. **HexaCode Enclave solves this by keeping 100% of the AI processing local, offline, and secure.**
 
----
 
 ## ⚡ How It Works in 3 Steps
 
@@ -22,7 +20,6 @@ Enterprise software developers are strictly forbidden from pasting proprietary s
 
 &gt; 🔒 **Zero bytes ever leave your physical devices or enter the cloud.**
 
----
 
 ## 🎯 Key Benefits
 
@@ -31,11 +28,10 @@ Enterprise software developers are strictly forbidden from pasting proprietary s
 * **🌉 iQOO Office Kit Integration:** Continuous bidirectional clipboard synchronization.
 * **💸 Zero Cloud Costs:** 100% open-source stack with no external API fees or cloud server costs.
 
----
 
 ## 🏗️ System Architecture
 
-```text
+
 +-------------------------------------------------------------------+
 |                        1. LAPTOP IDE                              |
 |   Developer selects vulnerable code &amp; presses Ctrl+C              |
